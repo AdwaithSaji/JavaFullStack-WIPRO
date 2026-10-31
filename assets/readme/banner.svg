@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-labelledby="t d">
+  <title id="t">JavaFullStack WIPRO</title>
+  <desc id="d">Java Full Stack (WIPRO) exercises. Experiment 1 and Experiment 2 are complete; further work is not yet in this repository.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16171b"/><stop offset="1" stop-color="#0b0c0e"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1279" height="339" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="72" y="100" font-size="15" letter-spacing="4" fill="#fb923c" font-weight="600">WIPRO / EXERCISES</text>
+    <text x="72" y="170" font-size="62" letter-spacing="1" fill="#f3f4f6" font-weight="700">JavaFullStack</text>
+    <text x="74" y="214" font-size="23" fill="#9aa0a8">Java, one experiment at a time.</text>
+    <g font-size="14" fill="#cdd1d6">
+      <rect x="72" y="248" width="82" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/><text x="113" y="268" text-anchor="middle">Java 16</text>
+      <rect x="164" y="248" width="86" height="30" rx="15" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/><text x="207" y="268" text-anchor="middle">Eclipse</text>
+      <rect x="260" y="248" width="170" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.5"/><text x="345" y="268" text-anchor="middle" fill="#fbbf24">Work in progress</text>
+    </g>
+  </g>
+  <!-- progression -->
+  <g transform="translate(770 0)">
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="3" fill="#7b8794"><text x="0" y="86">PROGRESSION</text></g>
+    <rect x="0" y="169" width="190" height="3" rx="1.5" fill="#fb923c"/>
+    <path d="M190 170.5 H330" stroke="#7b8794" stroke-width="3" stroke-dasharray="3 9" stroke-linecap="round"/>
+    <circle cx="40" cy="170" r="14" fill="#fb923c"/>
+    <path d="M33 170 l5 5 l9 -10" fill="none" stroke="#16171b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="190" cy="170" r="14" fill="#fb923c"/>
+    <path d="M183 170 l5 5 l9 -10" fill="none" stroke="#16171b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="340" cy="170" r="14" fill="#0f1012" stroke="#7b8794" stroke-width="2.5" stroke-dasharray="4 5"/>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#e5e7eb" text-anchor="middle" font-weight="600">
+      <text x="40" y="214">Experiment 1</text><text x="190" y="214">Experiment 2</text>
+    </g>
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#7b8794" text-anchor="middle">
+      <text x="40" y="236">Core Java</text><text x="190" y="236">Mini project</text><text x="340" y="214">Next</text><text x="340" y="236">not yet added</text>
+    </g>
+  </g>
+</svg>
